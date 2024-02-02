@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Agha! 👋
 
-I have been enjoying web development for over 2 years now. I have a passion for creating web applications and solving problems. I also enjoy learning new technologies and frameworks.
+I have been enjoying web development for over 2 years now. It started with JavaScript at school and now I'm in so deep that even my dreams have event listeners. 
 
 ```javascript
 const agha = {
   pronouns: "he" | "him",
   code: ["JavaScript", "C#", "HTML", "CSS"],
   tools: ["React", "Node", "ASP.NET Core", "SQL Server"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
 };
 ```
 
