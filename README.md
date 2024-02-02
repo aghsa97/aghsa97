@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aghsa97/aghsa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Agha! 👋
+
+I have been enjoying web development for over 2 years now. I have a passion for creating web applications and solving problems. I also enjoy learning new technologies and frameworks.
+
+```javascript
+const agha = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "C#", "HTML", "CSS"],
+  tools: ["React", "Node", "ASP.NET Core", "SQL Server"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+};
+```
+
+- 💬 Ask me about anything related to JavaScript, C#, or web development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohammed-agha/)
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
