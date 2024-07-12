@@ -20,7 +20,7 @@ I have been enjoying web development for over 2 years now. It started with JavaS
 const agha = {
   pronouns: "he" | "him",
   code: ["JavaScript", "C#", "HTML", "CSS", "Java", "GO"],
-  tools: ["React", "Node", "ASP.NET Core", "SQL Server", "TypeScript"],
+  tools: ["React", "NodeJs", "ASP.NET Core", "Spring boot", "TypeScript", "Docker"],
 };
 ```
 
